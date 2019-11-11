@@ -21,6 +21,7 @@
 * [PHD2 Guiding](https://openphdguiding.org)
 * [SharpCap](https://www.sharpcap.co.uk)
 * [Stellarium](https://stellarium.org/es/)
+* [SExtractor](http://www.astromatic.net/software/sextractor)
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
