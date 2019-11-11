@@ -5,6 +5,7 @@
 * [Polar alignment with ShapCap](https://www.youtube.com/watch?v=_pZ77zqbsAE)
 * [Polar Drift Alignment with PHD2](https://www.youtube.com/watch?v=_pZ77zqbsAE)
 * [APT Tutorials](https://www.youtube.com/playlist?list=PLjR-rBiLuHlVrdByqERM2SV_DISOA-QI5)
+* [Astrophotography Tutorial](https://www.youtube.com/watch?v=jqZREcJ54tY)
 
 ## Referencias
 * [Cometografía](https://cometografia.es)
