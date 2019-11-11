@@ -27,6 +27,7 @@
 * [SharpCap](https://www.sharpcap.co.uk)
 * [Stellarium](https://stellarium.org/es/)
 * [SExtractor](http://www.astromatic.net/software/sextractor)
+* [Deep Sky Stacker](http://deepskystacker.free.fr/english/index.html)
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
