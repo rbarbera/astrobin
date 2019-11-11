@@ -1,6 +1,10 @@
 ![header](images/header.jpg)
 
-# Links
+# Articulos y vídeos
+* [Polar alignment with ShapCap](https://www.youtube.com/watch?v=_pZ77zqbsAE)
+* [Polar Drift Alignment (PHD2)](https://www.youtube.com/watch?v=_pZ77zqbsAE)
+
+# Enlaces de interés
 ## Proveedores
 * [AstroShop](https://www.astroshop.es/)
 * [TelescopioMania](https://www.telescopiomania.com)
@@ -17,7 +21,7 @@
 * [SharpCap](https://www.sharpcap.co.uk)
 * [Stellarium](https://stellarium.org/es/)
 
-# Source Code
+# Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
 * [PHD2](https://github.com/rbarbera/phd2)
 * [Open SynScan](https://github.com/rbarbera/Open-Synscan)
