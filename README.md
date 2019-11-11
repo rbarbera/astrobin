@@ -1,5 +1,5 @@
 # astrobin
-![header](imagenes/header.jpg)
+![header](images/header.jpg)
 
 # Links
 
