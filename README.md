@@ -13,6 +13,7 @@
 * [SkyWatcher](http://skywatcher.com)
 * [ZWO](https://astronomy-imaging-camera.com)
 * [QHYCCD](https://www.qhyccd.com/)
+* [The Shoestring Astronomy](http://www.store.shoestringastronomy.com/products_ds.htm)
 
 ## Software
 * [Astro Photography Tool](https://astrobackyard.com/astro-photography-tool/)
