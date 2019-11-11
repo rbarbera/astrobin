@@ -7,6 +7,7 @@ Astronomy related stuff
 ## Hardware
 * [Sky-Watcher](http://skywatcher.com)
 * [ZWO](https://astronomy-imaging-camera.com)
+* [QHYCCD](https://www.qhyccd.com/)
 
 ## Software
 * [Astro Photography Tool](https://astrobackyard.com/astro-photography-tool/)
