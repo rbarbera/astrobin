@@ -3,7 +3,7 @@
 # Articulos y vídeos
 ## Videos
 * [Polar alignment with ShapCap](https://www.youtube.com/watch?v=_pZ77zqbsAE)
-* [Polar Drift Alignment (PHD2)](https://www.youtube.com/watch?v=_pZ77zqbsAE)
+* [Polar Drift Alignment with PHD2](https://www.youtube.com/watch?v=_pZ77zqbsAE)
 
 # Enlaces de interés
 ## Proveedores
