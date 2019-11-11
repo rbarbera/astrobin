@@ -1,5 +1,5 @@
-# astrobin
 ![header](images/header.jpg)
+# AstroBin
 
 # Source Code
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
