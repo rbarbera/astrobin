@@ -4,6 +4,10 @@ Astronomy related stuff
 
 # Links
 
+## Proveedores
+* [AstroShop](https://www.astroshop.es/)
+* [TelescopioMania](https://www.telescopiomania.com)
+
 ## Hardware
 * [Sky-Watcher](http://skywatcher.com)
 * [ZWO](https://astronomy-imaging-camera.com)
