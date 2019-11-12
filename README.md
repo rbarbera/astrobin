@@ -35,3 +35,4 @@
 * [Open SynScan](https://github.com/rbarbera/Open-Synscan)
 * [SkyWatcher WiFi](https://github.com/rbarbera/SkyWatcherWiFi)
 * [SExtractor](https://github.com/rbarbera/sextractor)
+* [N.I.N.A](https://bitbucket.org/Isbeorn/nina/src/master/)
