@@ -20,7 +20,7 @@
 * [The Shoestring Astronomy](http://www.store.shoestringastronomy.com/products_ds.htm)
 
 ## Software
-* [Astro Photography Tool](https://astrobackyard.com/astro-photography-tool/)
+* [Astro Photography Tool](https://www.ideiki.com/astro/Default.aspx)
 * [BackyardEOS / BackyardNIKON](https://www.otelescope.com/store/category/2-backyardeos/)
 * [PHD2 Guiding](https://openphdguiding.org)
 * [SharpCap](https://www.sharpcap.co.uk)
