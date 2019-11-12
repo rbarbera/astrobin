@@ -24,9 +24,10 @@
 * [BackyardEOS / BackyardNIKON](https://www.otelescope.com/store/category/2-backyardeos/)
 * [PHD2 Guiding](https://openphdguiding.org)
 * [SharpCap](https://www.sharpcap.co.uk)
-* [Stellarium](https://stellarium.org/es/)
+* [Stellarium](https://st ellarium.org/es/)
 * [SExtractor](http://www.astromatic.net/software/sextractor)
 * [Deep Sky Stacker](http://deepskystacker.free.fr/english/index.html)
+* [N.I.N.A](https://nighttime-imaging.eu/)
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
