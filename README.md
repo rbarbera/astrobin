@@ -28,6 +28,7 @@
 * [SExtractor](http://www.astromatic.net/software/sextractor)
 * [Deep Sky Stacker](http://deepskystacker.free.fr/english/index.html)
 * [N.I.N.A](https://nighttime-imaging.eu/)
+* [Sequator](https://sites.google.com/site/sequatorglobal/)
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
