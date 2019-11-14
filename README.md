@@ -31,6 +31,7 @@
 * [N.I.N.A](https://nighttime-imaging.eu/)
 * [Sequator](https://sites.google.com/site/sequatorglobal/)
 * [Pixelinsight](http://pixinsight.com)
+* [INDI](https://www.indilib.org/)
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
