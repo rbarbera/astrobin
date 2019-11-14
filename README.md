@@ -39,6 +39,7 @@
 
 # Código fuente
 * [ASCOM](https://github.com/rbarbera/ASCOMPlatform)
+* [INDI](https://sourceforge.net/projects/indi/files/)
 * [PHD2](https://github.com/rbarbera/phd2)
 * [Open SynScan](https://github.com/rbarbera/Open-Synscan)
 * [SkyWatcher WiFi](https://github.com/rbarbera/SkyWatcherWiFi)
