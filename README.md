@@ -12,6 +12,7 @@
 ## Proveedores
 * [AstroShop](https://www.astroshop.es/)
 * [TelescopioMania](https://www.telescopiomania.com)
+* [Alpha Cygni](https://www.alphacygni.com)
 
 ## Hardware
 * [SkyWatcher](http://skywatcher.com)
