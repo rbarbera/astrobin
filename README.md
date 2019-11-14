@@ -31,6 +31,9 @@
 * [N.I.N.A](https://nighttime-imaging.eu/)
 * [Sequator](https://sites.google.com/site/sequatorglobal/)
 * [Pixelinsight](http://pixinsight.com)
+
+## Standars
+* [ASCOM](https://ascom-standards.org/index.htm)
 * [INDI](https://www.indilib.org/)
 
 # Código fuente
