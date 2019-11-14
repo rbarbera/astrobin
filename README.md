@@ -31,6 +31,7 @@
 * [N.I.N.A](https://nighttime-imaging.eu/)
 * [Sequator](https://sites.google.com/site/sequatorglobal/)
 * [Pixelinsight](http://pixinsight.com)
+* [StellarMate](https://stellarmate.com)
 
 ## Standars
 * [ASCOM](https://ascom-standards.org/index.htm)
