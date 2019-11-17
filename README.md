@@ -19,7 +19,8 @@
 * [SkyWatcher](http://skywatcher.com)
 * [ZWO](https://astronomy-imaging-camera.com)
 * [QHYCCD](https://www.qhyccd.com/)
-* [The Shoestring Astronomy](http://www.store.shoestringastronomy.com/products_ds.htm)
+* [The Shoestring Astronomy](http://www.store.shoestringastronomy.com/products_ds. 
+* [StellarMate](https://stellarmate.com)
 
 ## Software
 * [Astro Photography Tool](https://www.ideiki.com/astro/Default.aspx)
@@ -33,7 +34,6 @@
 * [N.I.N.A](https://nighttime-imaging.eu/)
 * [Sequator](https://sites.google.com/site/sequatorglobal/)
 * [Pixelinsight](http://pixinsight.com)
-* [StellarMate](https://stellarmate.com)
 
 ## Standars
 * [ASCOM](https://ascom-standards.org/index.htm)
